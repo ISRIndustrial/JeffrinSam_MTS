@@ -14,12 +14,6 @@ This project focuses on synthetic data generation and model fine-tuning for pick
 
 ![Unitree H1 Simulation Snapshot](https://github.com/ISRIndustrial/JeffrinSam_MTS/raw/main/H1/Screenshot%20from%202025-07-23%2011-07-44.png)
 
-### Extra Work
-## Task 2: Simulation and Fine-Tuning for Unitree G1
-- **Objective**: Simulate pick-and-place tasks for Unitree G1 and fine-tune the Gr00t N1.5 model.  
-- **Method**: Create a simulation environment in Isaac Sim with a ROS2 node to interface with Gr00t N1.5. Collect teleoperation data from both the simulation and the physical Unitree G1. Fine-tune Gr00t N1.5 and evaluate performance in Isaac Sim.  
-- **Tools**: Isaac Sim, ROS2.  
-- **Output**: Fine-tuned Gr00t N1.5 model with evaluated performance metrics (e.g., success rate).
 
 ## Dependencies
 - Isaac Lab  
