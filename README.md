@@ -2,7 +2,7 @@
 Synthetic Data Generation – Generate synthetic joint data for Unitree H1/G1 robots via imitation learning in Isaac Lab. Simulate and visualize in Isaac Sim, enhance with Cosmos for realism, and combine with teleop data to fine-tune Gr00t N1.5 for pick-and-place tasks, tested in Isaac Sim (Inference).
 
 ## Overview
-This project focuses on synthetic data generation and model fine-tuning for pick-and-place tasks using Unitree H1 and G1 robots. Leveraging Isaac Lab, Isaac Sim, ROS2, and RoboMimic, we generate synthetic joint data, train policies, simulate environments, and fine-tune models to enhance robotic performance.
+This project focuses on synthetic data generation and model fine-tuning for pick-and-place tasks using Unitree H1  robots. Leveraging Isaac Lab, Isaac Sim, ROS2, and RoboMimic, we generate synthetic joint data, train policies, simulate environments, and fine-tune models to enhance robotic performance.
 
 ## Task 1: Synthetic Data Generation for Unitree H1
 - **Objective**: Generate synthetic joint position data for Unitree H1 to train a policy for pick-and-place tasks.  
